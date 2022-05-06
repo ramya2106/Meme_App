@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github.io/Meme_App/static/css/main.b258d722.css",
-    "main.js": "/github.io/Meme_App/static/js/main.dfdba7c2.js",
-    "static/js/787.382e1d8e.chunk.js": "/github.io/Meme_App/static/js/787.382e1d8e.chunk.js",
-    "static/media/logo.svg": "/github.io/Meme_App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/github.io/Meme_App/index.html",
-    "main.b258d722.css.map": "/github.io/Meme_App/static/css/main.b258d722.css.map",
-    "main.dfdba7c2.js.map": "/github.io/Meme_App/static/js/main.dfdba7c2.js.map",
-    "787.382e1d8e.chunk.js.map": "/github.io/Meme_App/static/js/787.382e1d8e.chunk.js.map"
+    "main.css": "/Meme_App/static/css/main.b258d722.css",
+    "main.js": "/Meme_App/static/js/main.443d90f4.js",
+    "static/js/787.382e1d8e.chunk.js": "/Meme_App/static/js/787.382e1d8e.chunk.js",
+    "static/media/logo.svg": "/Meme_App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Meme_App/index.html",
+    "main.b258d722.css.map": "/Meme_App/static/css/main.b258d722.css.map",
+    "main.443d90f4.js.map": "/Meme_App/static/js/main.443d90f4.js.map",
+    "787.382e1d8e.chunk.js.map": "/Meme_App/static/js/787.382e1d8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b258d722.css",
-    "static/js/main.dfdba7c2.js"
+    "static/js/main.443d90f4.js"
   ]
 }
